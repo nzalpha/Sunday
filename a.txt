@@ -1,1 +1,2 @@
 hello this file named a
+Adding a new line to file a
